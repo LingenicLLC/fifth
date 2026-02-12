@@ -2,7 +2,7 @@
 
 **Date:** 2026-02-11
 **Version:** 0.1 alpha
-**Status:** **Implementation in progress**
+**Status:** **Alpha version available**
 
 **Fifth** is a modern ColorFORTH compiler that emits SPARK, enabling compilation to bare medal via GNAT. Chuck Moore's minimalist language, running on any platform, with optional verification.
 
