@@ -4,7 +4,7 @@
 **Version:** 0.1 alpha
 **Status:** **Implementation in progress**
 
-**Fifth** is ColorFORTH evolved. Chuck Moore's minimalist language, running on any platform, with optional verification.
+**Fifth** is a modern ColorFORTH compiler that emits SPARK, enabling compilation to bare medal via GNAT. Chuck Moore's minimalist language, running on any platform, with optional verification.
 
 ---
 
