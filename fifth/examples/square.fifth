@@ -1,0 +1,2 @@
+🟥 square 🟩 dup * ;
+🟥 test ⬜ 5 🟩 square . cr ;

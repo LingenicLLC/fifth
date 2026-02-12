@@ -1,0 +1,4 @@
+🟥 countdown 🟩 for i . space next cr ;
+🟥 abs 🟩 dup 0< if negate then ;
+🟥 max2 🟩 2dup < if swap then drop ;
+🟥 test ⬜ 10 🟩 countdown ;
